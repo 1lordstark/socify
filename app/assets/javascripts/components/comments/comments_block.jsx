@@ -1,4 +1,4 @@
-var Comments = require('./comments.jsx');
+var Comments = require('./index.jsx');
 var CommentsForm = require('./form.jsx');
 var CommentsBlock = React.createClass({
   getInitialState() {
